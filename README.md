@@ -1,2 +1,1 @@
-my_first_readme
-make_update _to_readme
+my_first_readme and make a file 
